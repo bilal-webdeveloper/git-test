@@ -1,0 +1,16 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    height: 100vh;
+    background: cyan;
+}
+h1
+{
+    text-align: center;
+    margin: 50% auto 50% auto;
+    color: blueviolet;
+}
